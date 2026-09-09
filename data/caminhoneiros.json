@@ -1,0 +1,123 @@
+{
+  "caminhoneiros": [
+    {
+      "id": "joao",
+      "nome": "João da Silva",
+      "cargo": "Motorista / Caminhoneiro",
+      "tipo": "bau",
+      "tipoLabel": "Baú",
+      "modelo": "Mercedes-Benz Atego 1719",
+      "especificacoes": "6,0m x 2,4m x 2,6m · 9.000 kg",
+      "status": "Ativo",
+      "whatsapp": "5511900000001",
+      "fotos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNRva4gvOYkWkflDxQwxSSNygEWNd7Neznncc5KwZYLQ&s=10",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ-LvQjltDLCbfpBcMV3zJcctAZZ2J03AYhOZ-TL8sxQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH3W8-AX9cZ7t4chkvARGtZXMvQ2nIffUK-h2qJPKdBA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtK6cJBda1aMzB_Hf0ONYvTu5vE8IhIRK1iKZ9ef8FuOavNAHYYmi8rlQ&s=10"
+      ]
+    },
+    {
+      "id": "carlos",
+      "nome": "Carlos Gomes",
+      "cargo": "Motorista / Caminhoneiro",
+      "tipo": "bau",
+      "tipoLabel": "Baú",
+      "modelo": "Volkswagen Delivery 11.180",
+      "especificacoes": "6,1m x 2,2m x 2,4m · 7.260 kg",
+      "status": "Ativo",
+      "whatsapp": "5511900000002",
+      "fotos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwoCU8TG9ZR23fPJw9QLqneYr_Aqa3P6l0FhqUoqngAKsflhnBGXtHMIUz&s=10",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn3BsK5BfAwTJ732DjN_YAy1kD_AzU_ddV2gihfQxq8A&s=10",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUPpL42YtTvGogvrs7V5JsNFfzqxhUcUWQ0wmJKh2Y7A&s=10",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSihza2EE0l1bEswKBMB6eYFf_k0AROGsv9rDw7dNmfCQ&s"
+      ]
+    },
+    {
+      "id": "roberto",
+      "nome": "Roberto Santos",
+      "cargo": "Motorista / Caminhoneiro",
+      "tipo": "carroceria",
+      "tipoLabel": "Carroceria",
+      "modelo": "Volkswagen Delivery 9.170",
+      "especificacoes": "5,5m x 2,4m x 2,2m · 6.000 kg",
+      "status": "Ativo",
+      "whatsapp": "5511",
+      "fotos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZN-4rDOszFyy_b7SN45KjXEJbEteDYR6KJIGsQJ_xIw&s=10",
+        "https://http2.mlstatic.com/D_NQ_NP_919228-MLB117095137593_092026-O-caminho-vw-9170-delivery-carroceria-de-madeira-gradeada.webp",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw5jFzsqcwmbiHUrz6PSbAn7D6QmwyBkCZ2iP694PcQQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStD6EAyvyRhEziO76HriAs6OlpJfCJw_zasAOLkAdqWQ&s"
+      ]
+    },
+    {
+      "id": "marcos",
+      "nome": "Marcos Oliveira",
+      "cargo": "Motorista / Caminhoneiro",
+      "tipo": "carroceria",
+      "tipoLabel": "Carroceria",
+      "modelo": "Mercedes-Benz Atego 1018",
+      "especificacoes": "6,0m x 2,4m x 2,3m · 9.600 kg",
+      "status": "Ativo",
+      "whatsapp": "5511900000004",
+      "fotos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6BmEEsVqGjo2b_oApJAo3Wa4K_FjZ9aZd5RHtOtOc2g&s=10",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgFt8Ar6OLK49_hC3zOIBRQvSIZ4CD8SR0AVAEOtZ0w&s=10",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIzPHeMczKZRkdU29A7ITnJXKM_p-zIcEZ5ZitZx_fwQ&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpAiJxDTAVsEJ6AiNO_2qE7LyJdaW5Cbk-bnV6Wb-w3g&s=10"
+      ]
+    },
+    {
+      "id": "andre",
+      "nome": "André Martins",
+      "cargo": "Motorista / Caminhoneiro",
+      "tipo": "bau",
+      "tipoLabel": "Baú",
+      "modelo": "Iveco Daily 35S14",
+      "especificacoes": "3,5m x 1,8m x 1,9m · 1.500 kg",
+      "status": "Ativo",
+      "whatsapp": "5511900000005",
+      "fotos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMA7XD4xdD9hLTGpmPCt7qvhWdM2DdSu9NcMT9NgxZDA&s=10",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ2u4sVxwuCVWKa6yEVxeShXKez3GHZ5VurNLNSgMJnqxwXalsuNDcnN_V&s=10",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL5WdkgHnBaDKzmZJNEqZLfe7Am8PUAD6wfGinevWOvXQZV2Pu5fIgG5c&s=10",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxtv5qsXqFiFT9FNTqNiZh_WBaa1M7Kj8wCRQA9CRdUg&s=10"
+      ]
+    },
+    {
+      "id": "felipe",
+      "nome": "Felipe Almeida",
+      "cargo": "Motorista / Caminhoneiro",
+      "tipo": "furgao",
+      "tipoLabel": "Furgão",
+      "modelo": "Fiat Fiorino",
+      "especificacoes": "4,3m x 1,8m x 1,9m · 1.500 kg",
+      "status": "Ativo",
+      "whatsapp": "5511900000006",
+      "fotos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Rtj1Tz_vF28aQplupdkSsm2LP3T240zn4KZT_LE0w&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVA-Nix_qIVbdAm1f9M6P00xz3H4foomzYSbuHFNNvaA&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzdNYC-DNVQb7t7fLuEiJhxsY5oDTq3MKrpD9WkDUUZw&s",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcbW60wb5qZVfEje53oIlK8Ntab_dfKxOonZ2XCYKMsw&s"
+      ]
+    },
+    {
+      "id": "Bitelão",
+      "nome": "Bitelão do Trecho",
+      "cargo": "Motorista / Caminhoneiro",
+      "tipo": "carreta",
+      "tipoLabel": "Carreta",
+      "modelo": "Scania R 420",
+      "especificacoes": "14,5m x 2,5m x 4,0m · 45.000 kg",
+      "status": "Ativo",
+      "whatsapp": "5511900133900",
+      "fotos": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROYXTyXfJ6nzuqeSce3UrXRw2ZSjyr4KnTfasuxECEUPVz-2tRowF3lohW&s=10",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8tYam63PBg2P1zL0mjDv-dEPhk-0OMcom-2nf7Lsq0d27d6aa5HHvwpZa&s=10",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTbNzWdL6ljiyfzbJ28_b87gyenjIh0iIpf15WSWYhJOrbqmObozRiIHdo&s=10",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA0cqqKC9PouC09GoFBJyMY2maVe_xWfbsugbfYK-DWQ&s=10"
+      ]
+    }
+  ]
+}
